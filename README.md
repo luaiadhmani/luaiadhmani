@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Luai! 👋  
 
-<!--
-**luaiadhmnai/luaiadhmnai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** skilled in **React, JavaScript, HTML, and CSS**.  
+I love building **interactive and user-friendly web applications**.  
+I am always learning and improving my skills.  
 
-Here are some ideas to get you started:
+### 🚀 Skills  
+- HTML, CSS, JavaScript  
+- React.js  
+- Responsive Web Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me  
+- **GitHub**: [github.com/luaiadhmnai](https://github.com/luaiadhmnai)  
+- **Email**: [luai.adhmani2@gmail.com](mailto:luai.adhmani2@gmail.com)
