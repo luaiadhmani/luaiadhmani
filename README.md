@@ -42,6 +42,6 @@ I usually watch tutorials, understand the concepts, and then code along to solid
 ---
 
 ### 📫 Contact Me
-- GitHub: [@luaiadhmnai](https://github.com/luaiadhmani)
+- GitHub: [@luaiadhmani](https://github.com/luaiadhmani)
 - Email: luai.adhmani2@gmail.com
 
