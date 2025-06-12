@@ -29,7 +29,7 @@ I'm a passionate **Frontend Developer** focused on building real, user-friendly 
 - **Weather App (React + API)**
 - **Expense Tracker (React)**
 
-➡️ Explore my work: [github.com/luaiadhmnai](https://github.com/luaiadhmani)
+➡️ Explore my work: [github.com/luaiadhmani](https://github.com/luaiadhmani)
 
 ---
 
@@ -54,5 +54,5 @@ I'm a passionate **Frontend Developer** focused on building real, user-friendly 
 ## 📫 Contact Me
 
 - **Email:** luai.adhmani2@gmail.com
-- **GitHub:** [@luaiadhmnai](https://github.com/luaiadhmani)
+- **GitHub:** [@luaiadhmani](https://github.com/luaiadhmani)
 - 
