@@ -55,4 +55,3 @@ I'm a passionate **Frontend Developer** focused on building real, user-friendly 
 
 - **Email:** luai.adhmani2@gmail.com
 - **GitHub:** [@luaiadhmani](https://github.com/luaiadhmani)
-- 
