@@ -1,47 +1,58 @@
-# Hi, I'm Luai 👋
 
-I'm a passionate **Front-End Developer** focused on building interactive and user-friendly web applications using **React**, **JavaScript**, **HTML**, and **CSS**.
+# 👋 Hi, I'm Luai
 
-I started learning programming through online tutorials and practical projects. I believe in consistent learning by building and practicing real-world examples — and I'm always looking to improve and challenge myself more.
-
----
-
-### 📚 My Learning Journey So Far
-
-- ✅ Started with HTML & CSS (14+ hours of basic tutorials)
-- ✅ Moved to JavaScript (9+ hours of fundamentals + 9 practical project tutorials)
-- ✅ Learned React (12+ hours of basics + hands-on practice with real projects)
-- ✅ Followed & practiced building apps like:
-  - `grocery-bud`, `menu`, `tours` (React)
-  - `portfolio`, `todo-app`, `weather-app-api`
-
-I usually watch tutorials, understand the concepts, and then code along to solidify my learning.
+I'm a passionate **Frontend Developer** focused on building real, user-friendly web projects using **React.js**, **JavaScript**, **HTML**, **CSS**, and **WordPress**.
 
 ---
 
-### 💼 What I'm Working On
-- Improving my skills by building more complete projects
-- Preparing polished demos to publish online
-- Exploring small freelance opportunities
+## 🚀 About Me
+
+- I started learning with online tutorials, then shifted to **active learning** — building real projects and solving real problems.
+- I believe in "learning by doing," especially through freelancing and earning-based projects.
+- I recently published my own **freelance services website** built with WordPress and Elementor.
 
 ---
 
-### 💡 Goals
-- Land my first freelance opportunity (even small)
-- Build a strong portfolio with published live projects
-- Continue growing as a self-taught front-end developer
+## 🧠 My Learning Journey
+
+- ✅ learning HTML & CSS basics
+- ✅ JavaScript fundamentals + guided projects
+- ✅ React basics + hands-on projects (Todo App, Weather App, Expense Tracker)
+- ✅ WordPress practice (including a full freelance portfolio site)
 
 ---
 
-### 🛠️ Skills
+## 🔨 Projects I'm Proud Of
+
+- **Freelance Portfolio Website (WordPress)**
+- **Todo App (React)**
+- **Weather App (React + API)**
+- **Expense Tracker (React)**
+
+➡️ Explore my work: [github.com/luaiadhmnai](https://github.com/luaiadhmani)
+
+---
+
+## 🎯 Goals
+
+- Land my **first freelance/remote job**
+- Build a strong, client-ready portfolio
+- Improve problem-solving and self-reliance with every project
+- Stay focused on **React** and **WordPress** – no overlearning, just real work
+
+---
+
+## 💡 Skills
+
 - **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks:** React.js (Components, Props, State, Hooks)
-- **Tools:** Git, GitHub, VS Code
-- **Other:** Responsive Web Design, Basic API Integration
+- **Frameworks:** React.js
+- **CMS/Tools:** WordPress, Elementor, Git, GitHub, VS Code
+- **Other:** API Integration, Responsive Web Design
 
 ---
 
-### 📫 Contact Me
-- GitHub: [@luaiadhmani](https://github.com/luaiadhmani)
-- Email: luai.adhmani2@gmail.com
+## 📫 Contact Me
 
+- **Email:** luai.adhmani2@gmail.com
+- **GitHub:** [@luaiadhmnai](https://github.com/luaiadhmani)
+- 
